@@ -30,7 +30,7 @@ This project is a command-line implementation of the classic Minesweeper game. T
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/TharushaWijayabahu/mine-sweeper.git
-    cd minesweeper
+    cd mine-sweeper
     ```
 
 2. **Build the Project:**
